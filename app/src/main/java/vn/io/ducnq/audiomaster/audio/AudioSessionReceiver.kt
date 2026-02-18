@@ -1,10 +1,10 @@
-package vn.io.ducnq.AudioMaster.audio
+package vn.io.ducnq.audiomaster.audio
 
 import android.content.BroadcastReceiver
 import android.content.Context
 import android.content.Intent
 import android.media.audiofx.AudioEffect
-import vn.io.ducnq.AudioMaster.service.AudioService
+import vn.io.ducnq.audiomaster.service.AudioService
 
 class AudioSessionReceiver : BroadcastReceiver() {
 

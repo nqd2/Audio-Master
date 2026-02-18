@@ -1,4 +1,4 @@
-package vn.io.ducnq.AudioMaster.service
+package vn.io.ducnq.audiomaster.service
 
 import android.app.NotificationChannel
 import android.app.NotificationManager
@@ -8,7 +8,7 @@ import android.content.Intent
 import android.os.Build
 import android.os.IBinder
 import androidx.core.app.NotificationCompat
-import vn.io.ducnq.AudioMaster.audio.AudioEffectManager
+import vn.io.ducnq.audiomaster.audio.AudioEffectManager
 
 class AudioService : Service() {
 

@@ -1,4 +1,4 @@
-package vn.io.ducnq.AudioMaster.audio
+package vn.io.ducnq.audiomaster.audio
 
 import android.media.audiofx.BassBoost
 import android.media.audiofx.Equalizer
